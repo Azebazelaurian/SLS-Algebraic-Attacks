@@ -24,7 +24,7 @@ load "SLS-Algebraic-Attacks.m";
 
 The code includes experimental parameters, algebraic preprocessing, candidate filtering, and recovery procedures.
 
-The algebraic transcript mode uses the known secret to generate statistics directly. Oracle simulation mode computes statistics from individual oracle evaluations.
+The algebraic transcript mode uses a random secret to generate statistics directly. Oracle simulation mode computes statistics from individual oracle evaluations.
 
 ## License
 
